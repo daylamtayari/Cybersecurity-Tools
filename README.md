@@ -1,5 +1,8 @@
 # Cybersecurity Tools Index
 
+#### Disclaimer: I am neither affiliated with any of the below programs nor assume any liability towards anyone's use of the below tools and resources.
+#### This is simply an aggregation of tools that I have found useful and have used or plan to use in the future.
+
 - [John the Ripper](https://github.com/openwall/john): Advanced password cracker.
 - [Ciphey](https://github.com/Ciphey/Ciphey): Decyphering and decryption tool.
 - [Wfuzz](https://github.com/xmendez/wfuzz): Web fuzzer.
@@ -13,3 +16,4 @@
 - [JShielder](https://github.com/Jsitech/JShielder): Hardening scripts for linux servers.
 - [Fake Sandbox Artifacts](https://github.com/NavyTitanium/Fake-Sandbox-Artifacts): Sandbox/VM simulator to trick any malware that checks if it is running inside of a VM or not.
 - [DNS Dumpster](https://github.com/nmmapper/dnsdumpster): DNS reconnaissance tool.
+- [SecLists](https://github.com/danielmiessler/SecLists): Large collection of lists.
