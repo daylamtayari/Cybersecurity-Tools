@@ -27,6 +27,7 @@
 - [HTTP Probe](https://github.com/tomnomnom/httprobe): HTTP and HTTPS probing tool.
 - [Malcolm](https://github.com/cisagov/Malcolm): Extensive network analysis tool designed by CISA.
 - [DNS Dumpster](https://github.com/nmmapper/dnsdumpster): DNS reconnaissance tool.
+- [Firesheep](https://github.com/codebutler/firesheep): Sidejacking utility Firefox extension. 
 
 ## Miscallaneous Enumeration Tools:
 - [WAFW00F](https://github.com/EnableSecurity/wafw00f): WAF detection tool.
