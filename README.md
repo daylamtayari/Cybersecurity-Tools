@@ -50,6 +50,11 @@
 - [ProOSINT](https://github.com/pixelbubble/ProtOSINT): ProtonMail account detection tool.
 - [linkedin2username](https://github.com/initstring/linkedin2username): Linkedin OSINT tool which fetches all usernames of employees of a particular company.
 
+## List Collections:
+- [SecLists](https://github.com/danielmiessler/SecLists): Large collection of various lists.
+- [Leaky Paths](https://github.com/ayoubfathi/leaky-paths): Lists of interesting URL paths and paths vulnerable to CVEs and misconfigurations.
+- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): Extensive list of payloads and bypasses for websec.
+
 ## Miscallaenous:
 - [CSET](https://github.com/cisagov/cset): Cybersec infrastructure assessment tool made by CISA which directly includes numerous infrastrcuture security standards.
 - [Hacks](https://github.com/tomnomnom/hacks): Large collection of individual scripts.
@@ -61,8 +66,6 @@
 - [PHP Reverse Shell](https://github.com/pentestmonkey/php-reverse-shell): PHP reverse shell.
 - [Pi-Pwner](https://github.com/Jsitech/Pi-Pwner): Pentesting suite deployer for Rasbian.
 - [Fake Sandbox Artifacts](https://github.com/NavyTitanium/Fake-Sandbox-Artifacts): Sandbox/VM simulator to trick any malware that checks if it is running inside of a VM or not.
-- [SecLists](https://github.com/danielmiessler/SecLists): Large collection of lists.
 - [Telnet Logger](https://github.com/robertdavidgraham/telnetlogger): Telnet login logger.
-- [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings): Extensive list of payloads and bypasses for websec.
 - [Gophish](https://github.com/gophish/gophish): Phishing toolkit.
 - [CallObfuscator](https://github.com/d35ha/CallObfuscator): Windows API obfuscating tool.
